@@ -1,0 +1,5 @@
+npm run build
+npm update caniuse-lite browserslist
+API_KEY=e1ad271f1e9ec9d51987724f923b2d6a
+npm install webpack webpack-cli --save-dev
+npm run dev
